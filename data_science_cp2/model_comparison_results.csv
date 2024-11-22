@@ -1,0 +1,6 @@
+Model,Total_Absolute_Error
+LightGBM,65746489.29028574
+Decision Tree,66626973.752689004
+Gradient Boosting,73015247.39533664
+Linear Regression,191841326.91893333
+Random Forest,464883307.2654607
