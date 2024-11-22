@@ -1,0 +1,6 @@
+Model,Total_Absolute_Error
+XGBoost,23724569.5
+Voting Regressor,26288935.554827653
+Stacking Regressor,27429262.967746146
+LightGBM,28968029.995116822
+CatBoost,29208340.334470462
