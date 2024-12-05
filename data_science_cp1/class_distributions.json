@@ -1,0 +1,541 @@
+[
+    {
+        "Dataset": "Dataset_1",
+        "Before_SMOTE": {
+            "0": 313,
+            "1": 131
+        },
+        "After_SMOTE": {
+            "0": 313,
+            "1": 313
+        }
+    },
+    {
+        "Dataset": "Dataset_10",
+        "Before_SMOTE": {
+            "0": 273,
+            "1": 194
+        },
+        "After_SMOTE": {
+            "0": 273,
+            "1": 273
+        }
+    },
+    {
+        "Dataset": "Dataset_11",
+        "Before_SMOTE": {
+            "0": 47,
+            "1": 11
+        },
+        "After_SMOTE": {
+            "0": 47,
+            "1": 47
+        }
+    },
+    {
+        "Dataset": "Dataset_12",
+        "Before_SMOTE": {
+            "0": 111,
+            "1": 43
+        },
+        "After_SMOTE": {
+            "0": 111,
+            "1": 111
+        }
+    },
+    {
+        "Dataset": "Dataset_13",
+        "Before_SMOTE": {
+            "0": 129,
+            "1": 52
+        },
+        "After_SMOTE": {
+            "0": 129,
+            "1": 129
+        }
+    },
+    {
+        "Dataset": "Dataset_14",
+        "Before_SMOTE": {
+            "0": 129,
+            "1": 52
+        },
+        "After_SMOTE": {
+            "0": 129,
+            "1": 129
+        }
+    },
+    {
+        "Dataset": "Dataset_15",
+        "Before_SMOTE": {
+            "0": 250,
+            "1": 118
+        },
+        "After_SMOTE": {
+            "0": 250,
+            "1": 250
+        }
+    },
+    {
+        "Dataset": "Dataset_16",
+        "Before_SMOTE": {
+            "0": 287,
+            "1": 178
+        },
+        "After_SMOTE": {
+            "1": 287,
+            "0": 287
+        }
+    },
+    {
+        "Dataset": "Dataset_17",
+        "Before_SMOTE": {
+            "0.0": 63,
+            "1.0": 57
+        },
+        "After_SMOTE": {
+            "1.0": 63,
+            "0.0": 63
+        }
+    },
+    {
+        "Dataset": "Dataset_18",
+        "Before_SMOTE": {
+            "0.0": 321,
+            "1.0": 19
+        },
+        "After_SMOTE": {
+            "0.0": 321,
+            "1.0": 321
+        }
+    },
+    {
+        "Dataset": "Dataset_19",
+        "Before_SMOTE": {
+            "0": 208,
+            "1": 133
+        },
+        "After_SMOTE": {
+            "0": 208,
+            "1": 208
+        }
+    },
+    {
+        "Dataset": "Dataset_2",
+        "Before_SMOTE": {
+            "0": 287,
+            "1": 178
+        },
+        "After_SMOTE": {
+            "1": 287,
+            "0": 287
+        }
+    },
+    {
+        "Dataset": "Dataset_20",
+        "Before_SMOTE": {
+            "0": 91,
+            "1": 38
+        },
+        "After_SMOTE": {
+            "0": 91,
+            "1": 91
+        }
+    },
+    {
+        "Dataset": "Dataset_21",
+        "Before_SMOTE": {
+            "0.0": 175,
+            "1.0": 128
+        },
+        "After_SMOTE": {
+            "1.0": 175,
+            "0.0": 175
+        }
+    },
+    {
+        "Dataset": "Dataset_22",
+        "Before_SMOTE": {
+            "0": 81,
+            "1": 47
+        },
+        "After_SMOTE": {
+            "0": 81,
+            "1": 81
+        }
+    },
+    {
+        "Dataset": "Dataset_23",
+        "Before_SMOTE": {
+            "0": 217,
+            "1": 137
+        },
+        "After_SMOTE": {
+            "1": 217,
+            "0": 217
+        }
+    },
+    {
+        "Dataset": "Dataset_24",
+        "Before_SMOTE": {
+            "0": 426,
+            "1": 174
+        },
+        "After_SMOTE": {
+            "0": 426,
+            "1": 426
+        }
+    },
+    {
+        "Dataset": "Dataset_25",
+        "Before_SMOTE": {
+            "0": 87,
+            "1": 48
+        },
+        "After_SMOTE": {
+            "0": 87,
+            "1": 87
+        }
+    },
+    {
+        "Dataset": "Dataset_26",
+        "Before_SMOTE": {
+            "0": 114,
+            "1": 65
+        },
+        "After_SMOTE": {
+            "0": 114,
+            "1": 114
+        }
+    },
+    {
+        "Dataset": "Dataset_27",
+        "Before_SMOTE": {
+            "0": 114,
+            "1": 92
+        },
+        "After_SMOTE": {
+            "0": 114,
+            "1": 114
+        }
+    },
+    {
+        "Dataset": "Dataset_28",
+        "Before_SMOTE": {
+            "0": 299,
+            "1": 161
+        },
+        "After_SMOTE": {
+            "1": 299,
+            "0": 299
+        }
+    },
+    {
+        "Dataset": "Dataset_29",
+        "Before_SMOTE": {
+            "0.0": 175,
+            "1.0": 131
+        },
+        "After_SMOTE": {
+            "0.0": 175,
+            "1.0": 175
+        }
+    },
+    {
+        "Dataset": "Dataset_3",
+        "Before_SMOTE": {
+            "1": 35,
+            "0": 34
+        },
+        "After_SMOTE": {
+            "0": 35,
+            "1": 35
+        }
+    },
+    {
+        "Dataset": "Dataset_30",
+        "Before_SMOTE": {
+            "0": 355,
+            "1": 198
+        },
+        "After_SMOTE": {
+            "1": 355,
+            "0": 355
+        }
+    },
+    {
+        "Dataset": "Dataset_31",
+        "Before_SMOTE": {
+            "0": 59,
+            "1": 22
+        },
+        "After_SMOTE": {
+            "0": 59,
+            "1": 59
+        }
+    },
+    {
+        "Dataset": "Dataset_32",
+        "Before_SMOTE": {
+            "0": 506,
+            "1": 87
+        },
+        "After_SMOTE": {
+            "1": 506,
+            "0": 506
+        }
+    },
+    {
+        "Dataset": "Dataset_33",
+        "Before_SMOTE": {
+            "0": 152,
+            "1": 88
+        },
+        "After_SMOTE": {
+            "0": 152,
+            "1": 152
+        }
+    },
+    {
+        "Dataset": "Dataset_34",
+        "Before_SMOTE": {
+            "0.0": 157,
+            "1.0": 117
+        },
+        "After_SMOTE": {
+            "1.0": 157,
+            "0.0": 157
+        }
+    },
+    {
+        "Dataset": "Dataset_35",
+        "Before_SMOTE": {
+            "0": 299,
+            "1": 161
+        },
+        "After_SMOTE": {
+            "1": 299,
+            "0": 299
+        }
+    },
+    {
+        "Dataset": "Dataset_36",
+        "Before_SMOTE": {
+            "1": 108,
+            "0": 60
+        },
+        "After_SMOTE": {
+            "0": 108,
+            "1": 108
+        }
+    },
+    {
+        "Dataset": "Dataset_37",
+        "Before_SMOTE": {
+            "0": 95,
+            "1": 82
+        },
+        "After_SMOTE": {
+            "1": 95,
+            "0": 95
+        }
+    },
+    {
+        "Dataset": "Dataset_38",
+        "Before_SMOTE": {
+            "1": 249,
+            "0": 100
+        },
+        "After_SMOTE": {
+            "1": 249,
+            "0": 249
+        }
+    },
+    {
+        "Dataset": "Dataset_39",
+        "Before_SMOTE": {
+            "1": 353,
+            "0": 247
+        },
+        "After_SMOTE": {
+            "0": 353,
+            "1": 353
+        }
+    },
+    {
+        "Dataset": "Dataset_4",
+        "Before_SMOTE": {
+            "0": 486,
+            "1": 28
+        },
+        "After_SMOTE": {
+            "0": 486,
+            "1": 486
+        }
+    },
+    {
+        "Dataset": "Dataset_40",
+        "Before_SMOTE": {
+            "0": 299,
+            "1": 161
+        },
+        "After_SMOTE": {
+            "1": 299,
+            "0": 299
+        }
+    },
+    {
+        "Dataset": "Dataset_41",
+        "Before_SMOTE": {
+            "0": 432,
+            "1": 48
+        },
+        "After_SMOTE": {
+            "0": 432,
+            "1": 432
+        }
+    },
+    {
+        "Dataset": "Dataset_42",
+        "Before_SMOTE": {
+            "0": 62,
+            "1": 58
+        },
+        "After_SMOTE": {
+            "0": 62,
+            "1": 62
+        }
+    },
+    {
+        "Dataset": "Dataset_43",
+        "Before_SMOTE": {
+            "0": 506,
+            "1": 87
+        },
+        "After_SMOTE": {
+            "1": 506,
+            "0": 506
+        }
+    },
+    {
+        "Dataset": "Dataset_44",
+        "Before_SMOTE": {
+            "1": 43,
+            "0": 17
+        },
+        "After_SMOTE": {
+            "1": 43,
+            "0": 43
+        }
+    },
+    {
+        "Dataset": "Dataset_45",
+        "Before_SMOTE": {
+            "0": 147,
+            "1": 11
+        },
+        "After_SMOTE": {
+            "1": 147,
+            "0": 147
+        }
+    },
+    {
+        "Dataset": "Dataset_46",
+        "Before_SMOTE": {
+            "0.0": 107,
+            "1.0": 69
+        },
+        "After_SMOTE": {
+            "0.0": 107,
+            "1.0": 107
+        }
+    },
+    {
+        "Dataset": "Dataset_47",
+        "Before_SMOTE": {
+            "0": 59,
+            "1": 27
+        },
+        "After_SMOTE": {
+            "0": 59,
+            "1": 59
+        }
+    },
+    {
+        "Dataset": "Dataset_48",
+        "Before_SMOTE": {
+            "1": 150,
+            "0": 87
+        },
+        "After_SMOTE": {
+            "0": 150,
+            "1": 150
+        }
+    },
+    {
+        "Dataset": "Dataset_49",
+        "Before_SMOTE": {
+            "1": 368,
+            "0": 207
+        },
+        "After_SMOTE": {
+            "0": 368,
+            "1": 368
+        }
+    },
+    {
+        "Dataset": "Dataset_5",
+        "Before_SMOTE": {
+            "0": 303,
+            "1": 21
+        },
+        "After_SMOTE": {
+            "0": 303,
+            "1": 303
+        }
+    },
+    {
+        "Dataset": "Dataset_6",
+        "Before_SMOTE": {
+            "0": 188,
+            "1": 124
+        },
+        "After_SMOTE": {
+            "1": 188,
+            "0": 188
+        }
+    },
+    {
+        "Dataset": "Dataset_7",
+        "Before_SMOTE": {
+            "0": 321,
+            "1": 48
+        },
+        "After_SMOTE": {
+            "1": 321,
+            "0": 321
+        }
+    },
+    {
+        "Dataset": "Dataset_8",
+        "Before_SMOTE": {
+            "0": 121,
+            "1": 58
+        },
+        "After_SMOTE": {
+            "0": 121,
+            "1": 121
+        }
+    },
+    {
+        "Dataset": "Dataset_9",
+        "Before_SMOTE": {
+            "1": 74,
+            "0": 70
+        },
+        "After_SMOTE": {
+            "1": 74,
+            "0": 74
+        }
+    }
+]
